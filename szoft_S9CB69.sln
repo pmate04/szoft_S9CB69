@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teszt", "teszt\teszt.csproj", "{7D9EA250-498D-4702-A4B8-51B2D1F846B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajosTeszt", "WinFormsApp1\HajosTeszt.csproj", "{E6E0A288-5DE9-4432-96D9-E0EE36635634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajosTeszt", "WinFormsApp1\HajosTeszt.csproj", "{E6E0A288-5DE9-4432-96D9-E0EE36635634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kigyos", "kigyos\kigyos.csproj", "{7C32A9F1-D6C8-4C77-A7C0-997D6FDC09DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E6E0A288-5DE9-4432-96D9-E0EE36635634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6E0A288-5DE9-4432-96D9-E0EE36635634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6E0A288-5DE9-4432-96D9-E0EE36635634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C32A9F1-D6C8-4C77-A7C0-997D6FDC09DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C32A9F1-D6C8-4C77-A7C0-997D6FDC09DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C32A9F1-D6C8-4C77-A7C0-997D6FDC09DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C32A9F1-D6C8-4C77-A7C0-997D6FDC09DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
