@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajosTeszt", "WinFormsApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kigyos", "kigyos\kigyos.csproj", "{7C32A9F1-D6C8-4C77-A7C0-997D6FDC09DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh2gyak", "zh2gyak\zh2gyak.csproj", "{C14EEA33-DA69-4379-907D-F0B6DDD4A6D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zh2gyak", "zh2gyak\zh2gyak.csproj", "{C14EEA33-DA69-4379-907D-F0B6DDD4A6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adatbazis", "adatbazis\adatbazis.csproj", "{94147513-03CE-4099-863A-8583A637A212}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C14EEA33-DA69-4379-907D-F0B6DDD4A6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14EEA33-DA69-4379-907D-F0B6DDD4A6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14EEA33-DA69-4379-907D-F0B6DDD4A6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94147513-03CE-4099-863A-8583A637A212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94147513-03CE-4099-863A-8583A637A212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94147513-03CE-4099-863A-8583A637A212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94147513-03CE-4099-863A-8583A637A212}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
